@@ -18,5 +18,5 @@
 
 ### Survey tooling
 
-- [Kidadisi](https://github.com/gn0/kidadisi): An R package to build survey definitions and use them to generate XLSForm questionnaires for SurveyCTO and KoboToolbox. Its goal is to make it easier to specify and edit surveys and track them in version control. Unlike Honeybee below which uses its own domain-specific language, Kidadisi aims to work with tooling such as RStudio which research teams may already be familiar with.
+- [Kidadisi](https://github.com/gn0/kidadisi): An R package to build survey definitions and use them to generate [XLSForm](https://xlsform.org/en/) questionnaires for [SurveyCTO](https://www.surveycto.com/) and [KoboToolbox](https://www.kobotoolbox.org/). Its goal is to make it easier to specify and edit surveys and track them in version control. Unlike Honeybee below which uses its own domain-specific language, Kidadisi aims to work with tooling such as RStudio which research teams may already be familiar with.
 - [Honeybee](https://github.com/gn0/honeybee): Obsolete. A transpiler prototype to convert plain-text, human-readable survey definitions into XLSForm questionnaires for SurveyCTO. Designed to make survey editing easier, safer, and transparent to track in version control.
