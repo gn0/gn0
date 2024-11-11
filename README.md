@@ -3,18 +3,18 @@
 
 ### Data analysis
 
-- [`tomltable`](https://github.com/gn0/tomltable): A command-line utility for generating LaTeX tables. The table specification is read from a TOML file. The table content is loaded from JSON files. Written in Python.
+- [`tomltable`](https://github.com/gn0/tomltable): Generates LaTeX tables using table specifications in TOML. The table content is loaded from JSON files. Written in Python.
 - [`jsonwriter`](https://github.com/gn0/jsonwriter): An R package that saves `fixest` estimation results in JSON files.
 - [`json_this`](https://github.com/gn0/json-this): A Stata package that provides wrappers around `reg`, `reghdfe`, `ttest`, and arbitrary r-class and e-class Stata commands to save their results in JSON files.
 
 ### Utilities
 
-- [`steganotorchy`](https://github.com/gn0/steganotorchy): A command-line utility that hides an arbitrary secret message inside neural network weights and biases. Written in Rust.
-- [`tzconv`](https://github.com/gn0/tzconv): A command-line utility that converts a date and time from one time zone to several others. Written in Python.
+- [`steganotorchy`](https://github.com/gn0/steganotorchy): Embeds an arbitrary secret message inside neural network weights and biases. Written in Rust.
+- [`tzconv`](https://github.com/gn0/tzconv): Converts a date and time from one time zone to several others. Written in Python.
 - [`sacsv`](https://github.com/gn0/sacsv): "Swiss Army CSV." A variety of command-line utilities for manipulating CSV files. Written in Python.
 - [`csvgears`](https://github.com/gn0/csvgears): Command-line utilities for high-performance manipulation of CSV files. Written in Rust.
-- [`bibdl`](https://github.com/gn0/bibdl): A command-line utility that downloads BibTeX citation data based on a journal link for a paper. Written in Racket.
-- [`lsx86features`](https://github.com/gn0/lsx86features): A command-line utility to list x86 instruction set extensions that are used by a compiled binary. Useful for verifying whether your Rust, C, or C++ compiler uses less frequently available instructions, e.g., AVX-512 vector instructions, when your computer supports them. Written in Perl.
+- [`bibdl`](https://github.com/gn0/bibdl): Downloads BibTeX citation data based on a journal link for a paper. Written in Racket.
+- [`lsx86features`](https://github.com/gn0/lsx86features): Lists x86 instruction set extensions that are used by a compiled binary. Useful for verifying whether your Rust, C, or C++ compiler uses less frequently available instructions, e.g., AVX-512 vector instructions, when your computer supports them. Written in Perl.
 
 ### Survey tooling
 
