@@ -10,6 +10,7 @@
 
 ### Utilities
 
+- [`steganotorchy`](https://github.com/gn0/steganotorchy): A command-line utility that hides an arbitrary secret message inside neural network weights and biases. Written in Rust.
 - [`tzconv`](https://github.com/gn0/tzconv): A command-line utility that converts a date and time from one time zone to several others. Written in Python.
 - [`sacsv`](https://github.com/gn0/sacsv): "Swiss Army CSV." A variety of command-line utilities for manipulating CSV files. Written in Python.
 - [`csvgears`](https://github.com/gn0/csvgears): Command-line utilities for high-performance manipulation of CSV files. Written in Rust.
