@@ -6,7 +6,6 @@
 - [`tomltable`](https://github.com/gn0/tomltable): A command-line utility for generating LaTeX tables. The table specification is read from a TOML file. The table content is loaded from JSON files. Written in Python.
 - [`jsonwriter`](https://github.com/gn0/jsonwriter): An R package that saves `fixest` estimation results in JSON files.
 - [`json_this`](https://github.com/gn0/json-this): A Stata package that provides wrappers around `reg`, `reghdfe`, `ttest`, and arbitrary r-class and e-class Stata commands to save their results in JSON files.
-- [`coeftable`](https://github.com/gn0/coeftable) and [`extract_from_stata`](https://github.com/gn0/extract-from-stata): Obsolete. Command-line utilities for generating regression tables from JSON files and Stata log files.
 
 ### Utilities
 
@@ -20,4 +19,3 @@
 ### Survey tooling
 
 - [Kidadisi](https://github.com/gn0/kidadisi): An R package to build survey definitions and use them to generate [XLSForm](https://xlsform.org/en/) questionnaires for [SurveyCTO](https://www.surveycto.com/) and [KoboToolbox](https://www.kobotoolbox.org/). Its goal is to make it easier to specify and edit surveys and track them in version control. Unlike Honeybee below which uses its own domain-specific language, Kidadisi aims to work with tooling such as RStudio which research teams may already be familiar with.
-- [Honeybee](https://github.com/gn0/honeybee): Obsolete. A transpiler prototype to convert plain-text, human-readable survey definitions into XLSForm questionnaires for SurveyCTO. Designed to make survey editing easier, safer, and transparent to track in version control.
