@@ -9,7 +9,7 @@
 
 ### Utilities
 
-- [`steganotorchy`](https://github.com/gn0/steganotorchy): Embeds an arbitrary secret message inside neural network weights and biases. Written in Rust.
+- [Steganotorchy](https://github.com/gn0/steganotorchy): Embeds an arbitrary secret message inside neural network weights and biases. Written in Rust. ([See blog post.](https://blog.gabornyeki.com/2024-11-hiding-a-message-in-my-pytorch-weights/))
 - [`tzconv`](https://github.com/gn0/tzconv): Converts a date and time from one time zone to several others. Written in Python.
 - [`sacsv`](https://github.com/gn0/sacsv): "Swiss Army CSV." A variety of command-line utilities for manipulating CSV files. Written in Python.
 - [`csvgears`](https://github.com/gn0/csvgears): Command-line utilities for high-performance manipulation of CSV files. Written in Rust.
