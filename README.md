@@ -14,7 +14,7 @@
 - [`sacsv`](https://github.com/gn0/sacsv): "Swiss Army CSV." A variety of command-line utilities for manipulating CSV files. Written in Python.
 - [`csvgears`](https://github.com/gn0/csvgears): Command-line utilities for high-performance manipulation of CSV files. Written in Rust.
 - [`bibdl`](https://github.com/gn0/bibdl): Downloads BibTeX citation data based on a journal link for a paper. Written in Racket.
-- [`lsx86features`](https://github.com/gn0/lsx86features): Lists x86 instruction set extensions that are used by a compiled binary. Useful for verifying whether your Rust, C, or C++ compiler uses less frequently available instructions, e.g., AVX-512 vector instructions, when your computer supports them. Written in Perl.
+- [`lsx86features`](https://github.com/gn0/lsx86features): Lists x86 instruction set extensions that are used by a compiled binary. Useful for verifying whether your Rust, C, or C++ compiler uses less frequently available instructions, e.g., AVX-512 vector instructions, when your computer supports them. Written in Rust.
 
 ### Survey tooling
 
