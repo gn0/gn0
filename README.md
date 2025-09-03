@@ -13,7 +13,7 @@
 
 - [`tzconv`](https://github.com/gn0/tzconv): Converts a date and time from one time zone to several others. Written in Python.
 - [`lui`](https://github.com/gn0/lui): An LLM UI for the command line, using the API of open-webui. Written in Rust.
-- [Kairos](https://github.com/gn0/kairos): Get push notifications for new links on monitored websites. Written in Rust.
+- [Kairos](https://github.com/gn0/kairos): Sends push notifications when new links appear on monitored websites. Written in Rust.
 - [`bibdl`](https://github.com/gn0/bibdl): Downloads BibTeX citation data based on a journal link for a paper. Written in Racket.
 
 ### Tooling
